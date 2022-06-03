@@ -1,0 +1,4 @@
+# Project exclude paths
+/apple-music-api/node_modules/
+/apple-music-app/node_modules/
+/node_modules/
